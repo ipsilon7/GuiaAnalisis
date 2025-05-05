@@ -1,2 +1,3 @@
 # GuiaAnalisis
-Guia, anotaciones, para realizar un analisis de datos. 
+Guia, anotaciones, para realizar un analisis de datos.
+
